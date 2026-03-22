@@ -8,11 +8,11 @@ The analysis is visualized through two main dashboard views. You can download th
 
 ### Part 1: Executive Sales & Profit Overview
 This section focuses on high-level KPIs, including total revenue, total profit, and regional performance.
-![Dashboard Part 1](./dashboard/part1.png)
+![Dashboard Part 1](./part1.png)
 
 ### Part 2: Product & Logistics Deep-Dive
 This section analyzes shipping efficiency, category performance, and the impact of discounts on the bottom line.
-![Dashboard Part 2](./dashboard/part2.png)
+![Dashboard Part 2](./part2.png)
 
 ---
 
